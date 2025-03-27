@@ -6,7 +6,7 @@ Este repositorio contiene un modelo de redes neuronales capaz de predecir el pre
 
 1. **Carga de Datos**: Se utilizó el dataset de Kaggle que contiene información sobre precios de viviendas y sus características.
 2. **Análisis y Preprocesamiento**: Se exploraron y limpiaron los datos en un Jupyter Notebook para garantizar su calidad.
-3. **Creación del Modelo**: Se desarrolló una red neuronal para predecir el precio de la casa.
+3. **Creación del Modelo**: Se desarrollaron redes neuronales para predecir el precio de la casa.
 4. **Entrenamiento del Modelo**: El modelo fue entrenado con los datos procesados.
 5. **Implementación de API con Flask**: Se creó una API en Flask que permite realizar predicciones enviando un JSON con las características de la casa.
 
