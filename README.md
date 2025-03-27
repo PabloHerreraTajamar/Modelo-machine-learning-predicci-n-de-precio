@@ -10,6 +10,8 @@ Este repositorio contiene un modelo de redes neuronales capaz de predecir el pre
 4. **Entrenamiento del Modelo**: El modelo fue entrenado con los datos procesados.
 5. **Implementación de API con Flask**: Se creó una API en Flask que permite realizar predicciones enviando un JSON con las características de la casa.
 
+Toda la carga de datos y el desarrollo del modelo se encuentran en el notebook `Modelo_casas.ipynb`, mientras que la API está implementada en `api.py` y el envío de datos para predicción se realiza mediante `send.py`.
+
 ## Instalación y Uso
 
 ### Requisitos
