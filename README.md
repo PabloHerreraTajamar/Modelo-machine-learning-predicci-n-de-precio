@@ -1,4 +1,4 @@
-# Predicción de Precios de Casas con Redes Neuronales
+# Predicción de Precios de Casas con Redes Neuronales Artificiales
 
 Este repositorio contiene un modelo de redes neuronales capaz de predecir el precio de una casa en función de diversas características. El modelo ha sido entrenado utilizando el conjunto de datos de [Kaggle](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset) y expuesto a través de una API con Flask.
 
